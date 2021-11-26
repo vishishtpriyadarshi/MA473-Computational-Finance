@@ -1,4 +1,4 @@
-# MA473-Computational-Finance
+# MA473: Computational Finance
 This repository contains all my submissions to the assignments completed during study of the course MA473: Computational Finance, taken in Monsoon Semester 2021 at IIT Guwahati.
 
 All the details can be found in the respective folders. Here is a brief introduction to the worked upon problems:
