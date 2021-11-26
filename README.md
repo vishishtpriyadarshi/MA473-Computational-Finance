@@ -10,5 +10,5 @@ All the details can be found in the respective folders. Here is a brief introduc
 * **Lab 5 & 6:** Numerical solution to the American options
 * **Lab 7:** Modelling the Asian option for the European arithmetic average strike call
 * **Lab 8:** Solving the Boundary-value problem using Finite Elements Method
-* **Lab 9:** Numerical solution to the Black-Scholes PDE for American options using Finite Elements Method
+* **Lab 9:** Numerical solution to the Black-Scholes PDE for European options using Finite Elements Method
 * **Lab 10:** Solutions to the Stochastic Differential Equations
